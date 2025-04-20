@@ -3,7 +3,8 @@
 
 ## 📹 Project Overview
 
-This project includes a final presentation video file (`Presentation_FINAL_Complete23.mp4`) located in `mod7/PROJ2`. It covers the critical principles and practices of secure software development, guided by modern cybersecurity standards and risk mitigation strategies.
+This project includes a final presentation video file (`Presentation_FINAL_Complete23.mp4`) located in `mod7/PROJ2, Click "view Raw" for download or use link Project Two: Security Policy Presentation
+YouTube Video Link: [https://youtu.be/Kb6ZHVAgG78]. It covers the critical principles and practices of secure software development, guided by modern cybersecurity standards and risk mitigation strategies.
 
 ---
 
